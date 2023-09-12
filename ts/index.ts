@@ -1,10 +1,10 @@
 interface book {
-  title: String;
-  description: String;
-  authors: String;
-  favorite: String;
-  fileCover: String;
-  fileName: String;
+  title: string;
+  description: string;
+  authors: string;
+  favorite: string;
+  fileCover: string;
+  fileName: string;
 }
 
 // Пока типы данных не ясны, то ANY
